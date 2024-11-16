@@ -1,0 +1,8 @@
+rootProject.name = 'CodingTest'
+include 'lv0'
+include 'lv1'
+include 'lv2'
+include 'lv3'
+include 'lv4'
+include 'lv5'
+
